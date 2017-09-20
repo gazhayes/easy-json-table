@@ -1,14 +1,14 @@
 {
-  "name": "react-json-table",
-  "version": "0.1.1",
-  "description": "Easiest reactive tables, ever.",
+  "name": "easy-json-table",
+  "version": "0.1.2",
+  "description": "Easiest reactive json tables, ever.",
   "main": "rjt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gazhayes/react-json-table.git"
+    "url": "https://github.com/gazhayes/easy-json-table.git"
   },
   "keywords": [
     "react",
@@ -18,9 +18,9 @@
   "author": "Multiple Authors",
   "license": "MPL-v2",
   "bugs": {
-    "url": "https://github.com/gazhayes/react-json-table/issues"
+    "url": "https://github.com/gazhayes/easy-json-table/issues"
   },
-  "homepage": "https://github.com/gazhayes/react-json-table",
+  "homepage": "https://github.com/gazhayes/easy-json-table",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-insert": "^0.4.0",
