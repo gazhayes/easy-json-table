@@ -171,4 +171,5 @@ Tests, tests, tests... I need to add tests for the different settings in order t
 
 Of course, issues reports, feature and pull requests are welcome. If JsonTable can make you not to code a react table again I will be happy to help.
 
-## [MIT Licensed](LICENSE)
+## License
+Original code was released under the [MIT license](MIT). All code written after this fork is released under the [MPL v2.0 license](LICENSE) and copyright [AUTHORS](AUTHORS). The MIT license is incompatible with the C4 contribution protocol.
