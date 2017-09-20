@@ -173,10 +173,8 @@ var SelectTable = React.createClass({
 ```
 http://codepen.io/arqex/pen/pJPzox?editors=011
 
-## What's next?
-Tests, tests, tests... I need to add tests for the different settings in order to continue the developing of new features.
-
-Of course, issues reports, feature and pull requests are welcome. If JsonTable can make you not to code a react table again I will be happy to help.
+## Contributing
+Pull requests that comply with the [C4](https://rfc.zeromq.org/spec:42/C4) will be merged.
 
 ## License
 Original code was released under the [MIT license](MIT). All code written after this fork is released under the [MPL v2.0 license](LICENSE) and copyright [AUTHORS](AUTHORS). The MIT license is incompatible with the C4 contribution protocol.
