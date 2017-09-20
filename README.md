@@ -176,10 +176,10 @@ http://codepen.io/arqex/pen/pJPzox?editors=011
 ## Contributing
 Pull requests that are *correct patches* as per the [C4](https://rfc.zeromq.org/spec:42/C4) *will* be merged.
 
-Read the C4, but most notably: 
-A patch SHOULD be a *minimal* and *accurate* answer to exactly one problem.
-A patch MUST compile cleanly and pass project self-tests on at least the principle target platform.
-A patch commit message MUST consist of a single short (less than 50 characters) line stating the problem ("Problem: ...") being solved, followed by a blank line and then the proposed solution ("Solution: ...").
+Read the C4, but most notably:   
+* A patch SHOULD be a *minimal* and *accurate* answer to exactly one problem.
+* A patch MUST compile cleanly and pass project self-tests on at least the principle target platform.
+* A patch commit message MUST consist of a single short (less than 50 characters) line stating the problem ("Problem: ...") being solved, followed by a blank line and then the proposed solution ("Solution: ...").
 
 ## License
 Original code was released under the [MIT license](MIT). All code written after this fork is released under the [MPL v2.0 license](LICENSE) and copyright [AUTHORS](AUTHORS). The MIT license is incompatible with the C4 contribution protocol.
