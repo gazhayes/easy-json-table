@@ -3,13 +3,20 @@ A simple but flexible table react component to display JSON data.
 
 As simple as feeding it with an array of objects.
 ```js
+import React from 'react';
+import ReactDOM from 'react-dom';
+import registerServiceWorker from './registerServiceWorker';
+import JsonTable from 'react-json-table';
+
 var items = [
   { name: 'Louise', age: 27, color: 'red' },
   { name: 'Margaret', age: 15, color: 'blue'},
   { name: 'Lisa', age:34, color: 'yellow'}
 ];
 
-React.render(<JsonTable rows={ items } />, document.body);
+ReactDOM.render(<JsonTable rows={ items } />, document.body);
+
+registerServiceWorker();
 ```
 [See the example working](http://codepen.io/arqex/pen/JdWwoe?editors=011)
 
