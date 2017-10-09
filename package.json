@@ -6,7 +6,8 @@
   "scripts": {
     "build": "babel source --out-dir distribution",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm run build"
+    "gulp": "gulp",
+    "prepare": "npm run build && npm run gulp"
   },
   "repository": {
     "type": "git",
