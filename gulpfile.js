@@ -30,7 +30,7 @@ var cr = ('/*\n%%name%% v%%version%%\n%%homepage%%\n%%license%%: https://github.
 ;
 
 function build( config, minify ){
-	var stream =  gulp.src('./rjt.js')
+	var stream =  gulp.src('./distribution/rjt.js')
 		.pipe( webpack( config ) )
 	;
 
